@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://www.maxprog.com/pictures/icon_webdumper_1024x1024.png" width="200" alt="Web Dumper macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Web%20Dumper">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Web%20Dumper">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Web Dumper macOS page">
  </a><br><br>
  <div align="center">
